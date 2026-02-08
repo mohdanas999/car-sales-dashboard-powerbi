@@ -1,5 +1,6 @@
 Car Sales Performance Dashboard (Power BI)
 
+
 Project Overview:
 
 This project is an interactive Car Sales Performance Dashboard built in Power BI to analyze sales across time, company, body style, color, dealer region, and customer-level transactions.
@@ -11,6 +12,7 @@ The solution contains two views-
 Overview Dashboard – High-level KPIs and sales trends
 
 Details Dashboard – Transaction-level drill-down and record-level exploration
+
 
 Business Objective:
 
@@ -24,6 +26,7 @@ How are price and volume trending over time?
 
 Where should management focus to improve performance?
 
+
 Process:
 
 Validated and cleaned raw data for missing values, inconsistencies, and formatting issues
@@ -35,6 +38,7 @@ Built dynamic DAX measures (YTD Sales, MTD Sales, Avg Price, Cars Sold, Growth %
 Designed story-driven visuals using KPI cards, trend charts, breakdown charts, and slicers
 
 Implemented drill-down and interactive filtering for deeper analysis
+
 
 Key Insights:
 
@@ -49,6 +53,7 @@ SUVs and Sedans are the highest-selling body styles
 Pale White and Black are the most preferred colors
 
 Certain dealer regions consistently outperform others
+
 
 Problems Solved:
 
@@ -74,10 +79,15 @@ Files:
 
 [Download Power BI dashboard file](Dashboard.carsales)
 
+
+Photos:
+
 [Overview](screenshots/Dashboard.Overview)
 [Details](screenshots/Dashboard.Details)
 
+
 Potential Enhancements:
+
 
 Connect to SQL database for automated refresh
 
